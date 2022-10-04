@@ -71,3 +71,7 @@ Run the below command to start the server:
 npm run dev
 ```
 Go to: [http://localhost:3000](http://localhost:3000)
+
+## Contributing
+
+We really like contributions in several forms, see [CONTRIBUTING.md](https://github.com/Grumpyyash/Deptt_of_MnC_Website/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/Grumpyyash/Deptt_of_MnC_Website/blob/main/CODE_OF_CONDUCT.md)
