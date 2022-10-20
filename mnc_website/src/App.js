@@ -5,6 +5,7 @@ import Home from "./Pages/Home";
 import NotFound from "./Pages/Not-Found";
 import Navbar from "./components/navbar";
 import Faculty from "./Pages/Faculty";
+import Footer from "./components/Footer";
 function App() {
   return (
     <Router>
@@ -14,6 +15,7 @@ function App() {
         <Route exact path="/faculty" element={<Faculty />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
+      <Footer />
     </Router>
   );
 }
