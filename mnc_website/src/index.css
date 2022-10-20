@@ -136,7 +136,10 @@ html[xmlns] .clearfix {
 	Layout & Framework
 ===================================================== */
 
-
+.page-container {
+    margin: 10px auto;
+    text-align: center;
+}
 
 /* 
 =====================================================
