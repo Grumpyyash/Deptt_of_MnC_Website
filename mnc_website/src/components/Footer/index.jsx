@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <h1>This is footer of Mnc Website</h1>
+        <h1>This is footer of Mnc Website.</h1>
       </div>
     </footer>
   );
