@@ -70,7 +70,7 @@ Run the below command to start the server:
 ```sh
 npm run dev
 ```
-Go to: [http://localhost:3000](http://localhost:3000)
+Go To: [http://localhost:3000](http://localhost:3000)
 
 ## Contributing
 
